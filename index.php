@@ -69,10 +69,10 @@
 
         button {
             width: 100%;
-            padding: 18px; /* Increased padding */
+            padding: 20px; /* Increased padding */
             background-color: #ff007f;
             color: #fff;
-            font-size: 20px; /* Increased font size */
+            font-size: 22px; /* Increased font size */
             font-weight: bold;
             border: none;
             border-radius: 8px;
